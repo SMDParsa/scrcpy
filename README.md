@@ -11,3 +11,6 @@ This file is created to launch scrcpy in full screen withoud any boundaries and 
 ## How to use it?
 Simply download the file and place inside scrcpy folder and double click it.
 it will open scrcpy in full screen for you.
+
+watch full tutorial on YouTube:
+https://youtu.be/LqAxGq8y-WM
